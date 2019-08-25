@@ -2,7 +2,7 @@
 
 Key-Value pair storage with Command Line Interface
 
-Currently, this is a work in progress and will just print a string message.
+Currently, this will just print a string message when the command "test" is executed.
 
 Flags:
 * --help, -h
@@ -11,4 +11,6 @@ Flags:
 Commands:
 * help, h
 * test, t
+
+WORK IN PROGRESS...
 
